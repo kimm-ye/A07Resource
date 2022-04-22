@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">A07Resource</string>
+
+    <!--서버통신할때 서버 ip주소/연결정보/API 키 등을 적어놓는다.-->
+    <string name="xml_message">XML에서 리소스 참조</string>
+    <string name="code_message">Java코드로 리소스 참조</string>
+    <string name="button_text1">int형 배열출력</string>
+    <string name="button_text2">String형 배열출력</string>
+</resources>
